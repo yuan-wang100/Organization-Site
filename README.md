@@ -1,4 +1,4 @@
-# Other
+# Organization-Site
 
 HTML, PHP, and Screenshots for a sample High School Junior Civitan Service Club membership site.
 Front End: HTML.
